@@ -1,6 +1,6 @@
-Ruby-Codes
+Ruby Codes
 ==========
 
-Just a collection of one-file ruby programs.
+Just a collection of short ruby programs.
 
 Glossary:
